@@ -11,4 +11,4 @@ First, follow the steps above for forking this repository. Next, go to your GitH
 
 If you have not already forked the learning-data-science repository, and cloned the fork to your computer, please do so now following the instructions provided in the post [Learning Data Science](https://drwellsorg.wordpress.com/2020/11/25/learning-data-science/). After you've completed this you will have the files you need for this lesson, and you can skip the next section and pick up the lesson again below starting at "Creating a Table using SQL."
 
-However, if you have previously forked and cloned the repository, but don't have the files for the the recent lesson, then please follow the instructions provided in the post [Create Tables in PostgreSQL](https://drwellsorg.wordpress.com/2021/01/03/lesson-002-creating-tables-in-postgresql/#updating-your-fork).
+However, if you've previously forked and cloned the repository, but don't have the files for the most recent lesson, then please follow the instructions provided in the post [Create Tables in PostgreSQL](https://drwellsorg.wordpress.com/2021/01/03/lesson-002-creating-tables-in-postgresql/#updating-your-fork).
