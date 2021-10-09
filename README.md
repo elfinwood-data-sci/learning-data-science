@@ -1,5 +1,5 @@
 # Introduction
-The learning-data-science repository is for learning data analysis and management in association with the [Elfinwood Data Science Blog](https://drwellsorg.wordpress.com/elfinwood-data-science/) at [Dr. Wells Publishing](www.drwells.org).
+The learning-data-science repository is for learning data analysis and management in association with the [Elfinwood Data Science Blog](https://drwellsorg.wordpress.com/elfinwood-data-science/) at [Elfinwood Ecology](www.elfinwoodecology.org).
 
 # Forking this repository
 To use this repository to learn data analysis and management while following the related lessons on the Elfinwood Data Science Blog we recommend that you fork this repository on GitHub and then clone the fork locally.
