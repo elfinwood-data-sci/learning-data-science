@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS public.site
     slope_percent numeric(28, 16),
     aspect_degrees numeric(28, 16),
     surface_organic_thick_cm numeric(28, 16),
+	depth_to_gt_fifteen_pct_frags_cm (28, 16),
     site_field_note text,
     site_office_note text,
     PRIMARY KEY (study_value,sample_id)
@@ -181,6 +182,9 @@ COMMENT ON COLUMN public.site.aspect_degrees
 
 COMMENT ON COLUMN public.site.surface_organic_thick_cm
     IS 'The total thickness in centimeters of uninterrupted surface organic material from the soil surface.';
+
+COMMENT ON COLUMN public.site.depth_to_gt_fifteen_pct_frags_cm
+    IS 'The top depth in centimeters of the first soil layer with greater than 15% rock fragments.';
 
 COMMENT ON COLUMN public.site.site_field_note
     IS 'Relevant notes regarding the site recorded in the field by vegetation observer.';
