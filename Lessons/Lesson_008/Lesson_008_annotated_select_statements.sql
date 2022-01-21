@@ -105,7 +105,7 @@ ORDER BY sample_id ASC
 LIMIT 10;*/
 
 -- 15) Performing multiplication on a single column
-/*SELECT unique_id, unique_id * 1.543 AS unique_id_plus_one
+/*SELECT unique_id, unique_id * 1.543 AS unique_id_times_one
 FROM public.site
 ORDER BY sample_id ASC
 LIMIT 10;*/
